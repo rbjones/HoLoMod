@@ -1,0 +1,3 @@
+[submodule "HoLoMod.wiki"]
+	path = HoLoMod.wiki
+	url = https://github.com/rbjones/HoLoMod.wiki.git
